@@ -1,0 +1,20 @@
+{
+  "name": "things-app-export",
+  "version": "1.0.0",
+  "description": "Export the Things.app database as a JSON file",
+  "bin": {
+    "things-app-export": "coffee main.coffee"
+  },
+  "main": "main.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonid Shevtsov <leonid@shevtsov.me>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery-deferred": "^0.3.0",
+    "moment": "^2.9.0",
+    "node-osascript": "/Users/leonid/projects/node-osascript",
+    "underscore": "^1.8.1"
+  }
+}

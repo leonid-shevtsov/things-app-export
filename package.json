@@ -14,7 +14,7 @@
   "dependencies": {
     "jquery-deferred": "^0.3.0",
     "moment": "^2.9.0",
-    "node-osascript": "/Users/leonid/projects/node-osascript",
+    "node-osascript": "git://github.com/leonid-shevtsov/node-osascript.git",
     "underscore": "^1.8.1"
   }
 }
